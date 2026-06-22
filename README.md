@@ -1,13 +1,13 @@
 # Pinnamraju Abhishek
 
-AI Engineer and M.Tech student at NIT Calicut with interests in Computer Vision, Multimodal AI, Deep Learning, Autonomous Systems, and scalable AI deployment. Experienced in developing end-to-end AI systems involving video analysis, RGB-D sensing, semantic similarity pipelines, and production-ready ML workflows using Python, PyTorch, Flask, Azure, and SQL.
+AI Engineer and M.Tech graduate from NIT Calicut with interests in Computer Vision, Multimodal AI, Deep Learning, Autonomous Systems, and scalable AI deployment. Experienced in developing end-to-end AI systems involving video analysis, RGB-D sensing, semantic similarity pipelines, and production-ready ML workflows using Python, PyTorch, Flask, Azure, and SQL.
 
 ## Education
 
-M.Tech – AI & Data Analytics 
+M.Tech – AI & Data Analytics      8.75/10
 National Institute of Technology Calicut | 2024 – 2026
 
-B.Tech – Mechatronics Engineering  
+B.Tech – Mechatronics Engineering  7.79/10
 SASTRA Deemed University | 2019 – 2023
 
 
