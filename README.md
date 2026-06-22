@@ -4,10 +4,10 @@ AI Engineer and M.Tech graduate from NIT Calicut with interests in Computer Visi
 
 ## Education
 
-M.Tech – AI & Data Analytics      8.75/10
+M.Tech – AI & Data Analytics      
 National Institute of Technology Calicut | 2024 – 2026
 
-B.Tech – Mechatronics Engineering  7.79/10
+B.Tech – Mechatronics Engineering  
 SASTRA Deemed University | 2019 – 2023
 
 
